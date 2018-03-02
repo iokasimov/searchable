@@ -1,2 +1,2 @@
 # searchable
-Traverse over structure with alternative
+Traverse over structure with Alternative behaviour
